@@ -1,8 +1,10 @@
 .www a:link {
 	color: blue;
+	text-decoration: underline;
 }
 .www a:visited {
 	color: blue;  /*Не, ну рил же всякие гендеры, геи, трансформеры, в общем да */
+	text-decoration: underline;
 }
 .www a:hover {
     text-decoration: none;
