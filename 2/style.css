@@ -1,0 +1,9 @@
+.www a:link {
+	color: blue;
+}
+.www a:visited {
+	color: blue;  /*Не, ну рил же всякие гендеры, геи, трансформеры, в общем да */
+}
+.www a:hover {
+    text-decoration: none;
+}

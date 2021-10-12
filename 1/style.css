@@ -1,0 +1,10 @@
+#test a:link  {
+	color: red;
+}
+#test a:visited {
+	color: red;  /* Прямо как Совок, ахахахахах */
+}
+#test a:hover {
+	color: blue; /* Не ну тупа Сталин гей да, я думаю глупо это отрицать, угу)))))) */
+    text-decoration: none;
+}

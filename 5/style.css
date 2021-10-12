@@ -1,0 +1,11 @@
+#one{
+	text-decoration: underline;
+}
+#two{
+	text-decoration: line-through;
+}
+
+#three{
+	text-decoration: overline;
+}
+

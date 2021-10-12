@@ -1,0 +1,9 @@
+.eee a.www:link {
+	color: red; /* Совок */
+}
+.eee a.www:visited {
+	color: green;  /* Зелёный - значит верно поступил */
+}
+.eee a.www:hover {
+    text-decoration: none;
+}

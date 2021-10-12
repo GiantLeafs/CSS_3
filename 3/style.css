@@ -1,0 +1,9 @@
+.www  a#test :link {
+	color: red; /* Совок */
+}
+.www  a#test:visited {
+	color: green;  /* МС GULAG только зелёный*/
+}
+.www  a#test:hover {
+    text-decoration: none;
+}

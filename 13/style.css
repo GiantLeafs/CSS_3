@@ -1,0 +1,26 @@
+#One a:link, #d1 a:visited{
+	text-decoration: none;
+	color: blue;
+}
+#One a:hover{
+	text-decoration: underline;
+	color: green;
+}
+
+#Two a:link, #d2 a:visited{
+	text-decoration: underline;
+	color: red;
+}
+#Two a:hover{
+	text-decoration: line-through;
+	color: blue;
+}
+
+#Three a:link, #d3 a:visited{
+	text-decoration: none;
+	color: black;
+} 
+#Three a:hover{
+	color: red;
+	text-decoration: overline;}
+
