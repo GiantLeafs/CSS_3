@@ -1,4 +1,4 @@
-#One a:link, #d1 a:visited{
+#One a:link, a:visited{
 	text-decoration: none;
 	color: blue;
 }
@@ -7,7 +7,7 @@
 	color: green;
 }
 
-#Two a:link, #d2 a:visited{
+#Two a:link, a:visited{
 	text-decoration: underline;
 	color: red;
 }
@@ -16,7 +16,7 @@
 	color: blue;
 }
 
-#Three a:link, #d3 a:visited{
+#Three a:link, a:visited{
 	text-decoration: none;
 	color: black;
 } 
